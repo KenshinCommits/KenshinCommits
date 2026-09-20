@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Projects:
+Synthora-
+https://synthora-five.vercel.app/
+Sartorial-
+https://sartorial-hackathon-tau.vercel.app/
