@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Projects:
 Synthora-
-https://synthora-five.vercel.app/
+https://synthora-wuhm.vercel.app/
 Sartorial-
 https://sartorial-hackathon-tau.vercel.app/
